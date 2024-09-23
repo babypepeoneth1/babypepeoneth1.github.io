@@ -7399,3 +7399,12 @@ p {
   font-style: normal;
   font-display: swap;
 }
+
+
+
+.twitterpost
+{
+  position: relative;
+  z-index: 100;
+  width: 500px;
+}
