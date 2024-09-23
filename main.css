@@ -7408,3 +7408,10 @@ p {
   z-index: 100;
   width: 500px;
 }
+
+.twitterpostmobile
+{
+  position: relative;
+  z-index: 100;
+  width: 385px;
+}
